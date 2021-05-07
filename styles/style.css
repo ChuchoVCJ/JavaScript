@@ -1,0 +1,18 @@
+*{
+    margin: 20px;
+    padding: 20px;
+}
+
+main{
+    border: black 10px double;
+    padding: 0px;
+    align-items: center;
+    position: relative;
+    height: auto;
+    width: auto;
+}
+
+.header{
+    font-size: 50px;
+    align-items: center;
+}
